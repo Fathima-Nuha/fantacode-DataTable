@@ -1,0 +1,26 @@
+body {
+  background-color: #F0F8FF;
+}
+
+table {
+  border-color: white;
+  background-color: #e0ffff;
+  border-collapse: collapse;
+  min-width: 400px;
+  color: #009879;
+  font-size: 20px;
+}
+
+td {
+  text-align: center;
+}
+
+tr {
+  height: 50px;
+}
+
+thead th {
+  color: white;
+  background-color: #009879;
+  font-size: 20px;
+}
